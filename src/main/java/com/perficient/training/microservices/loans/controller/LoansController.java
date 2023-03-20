@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.perficient.training.microservices.loans.controller;
 
 import java.util.List;
